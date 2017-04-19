@@ -1,0 +1,72 @@
+[ 2017-03-31T11:42:11+08:00 ] 127.0.0.1 /index.php/SwooleHttp/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016426s ]
+ERR: 无法加载模块:SwooleHttp
+
+[ 2017-03-31T11:57:53+08:00 ] 127.0.0.1 /index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019686s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-31T14:02:22+08:00 ] 127.0.0.1 /index.php/abc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014867s ]
+ERR: 无法加载模块:Abc
+
+[ 2017-03-31T14:05:41+08:00 ] 127.0.0.1 /index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015499s ]
+ERR: 无法加载模块:A
+
+[ 2017-03-31T14:32:24+08:00 ] 127.0.0.1 /index.php/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005986s ]
+ERR: 无法加载模块:Aa
+
+[ 2017-03-31T14:32:47+08:00 ] 127.0.0.1 /index.php/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004459s ]
+ERR: 无法加载模块:Aa
+
+[ 2017-03-31T14:32:48+08:00 ] 127.0.0.1 /index.php/aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010415s ]
+ERR: 无法加载模块:Aa
+
+[ 2017-03-31T14:39:59+08:00 ] 127.0.0.1 /index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005888s ]
+ERR: 无法加载模块:A
+
+[ 2017-03-31T14:40:12+08:00 ] 127.0.0.1 /index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005608s ]
+ERR: 无法加载模块:A
+
+[ 2017-03-31T14:45:05+08:00 ] 127.0.0.1 /index.php/a.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008336s ]
+ERR: 无法加载模块:A
+
+[ 2017-03-31T14:51:46+08:00 ] 127.0.0.1 /index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002886s ]
+ERR: 无法加载模块:A
+
+[ 2017-03-31T14:52:41+08:00 ] 127.0.0.1 /index.php/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003695s ]
+ERR: 无法加载模块:A
+

@@ -1,0 +1,258 @@
+[ 2017-03-31T11:41:30+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002641s ]
+ERR: 无法加载控制器:SwooleHttp
+
+[ 2017-03-31T11:42:46+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008478s ]
+ERR: 无法加载控制器:SwooleHttp
+
+[ 2017-03-31T11:43:22+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002144s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002909s ]
+
+[ 2017-03-31T11:43:52+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002114s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002498s ]
+
+[ 2017-03-31T11:45:16+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007010s ]
+
+[ 2017-03-31T11:45:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-03-31T11:46:17+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013137s ]
+
+[ 2017-03-31T11:47:47+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021607s ]
+
+[ 2017-03-31T11:47:53+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002665s ]
+
+[ 2017-03-31T11:49:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002197s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003182s ]
+
+[ 2017-03-31T11:49:14+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025274s ]
+
+[ 2017-03-31T11:49:15+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020532s ]
+
+[ 2017-03-31T11:49:31+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025519s ]
+
+[ 2017-03-31T11:50:22+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014636s ]
+
+[ 2017-03-31T11:50:55+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028193s ]
+ERR: Think\Controller:redirec方法不存在！
+
+[ 2017-03-31T11:51:22+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016684s ]
+
+[ 2017-03-31T11:51:58+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008609s ]
+
+[ 2017-03-31T11:54:13+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010050s ]
+
+[ 2017-03-31T11:54:44+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023411s ]
+
+[ 2017-03-31T11:55:00+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017784s ]
+
+[ 2017-03-31T11:58:05+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012192s ]
+
+[ 2017-03-31T11:58:21+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013186s ]
+
+[ 2017-03-31T12:00:26+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024903s ]
+
+[ 2017-03-31T12:00:28+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005503s ]
+
+[ 2017-03-31T12:00:33+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002433s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002679s ]
+
+[ 2017-03-31T13:17:10+08:00 ] 127.0.0.1 /index.php/Swoole/SwooleHttp/run
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008472s ]
+
+[ 2017-03-31T13:21:55+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002180s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD /home/wei/share/Swoole/ThinkPHP/Library/Think/App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' /home/wei/share/Swoole/ThinkPHP/Library/Think/Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002857s ]
+SQL: SHOW COLUMNS FROM `tb_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tb_user`  [ RunTime:0.0002s ]
+NOTIC: [2] PDOStatement::execute(): MySQL server has gone away /home/wei/share/Swoole/ThinkPHP/Library/Think/Db/Driver.class.php 第 170 行.
+NOTIC: [2] PDOStatement::execute(): Error reading result set's header /home/wei/share/Swoole/ThinkPHP/Library/Think/Db/Driver.class.php 第 170 行.
+ERR: 2006:MySQL server has gone away
+ [ SQL语句 ] : SELECT * FROM `tb_user` 
+
+[ 2017-03-31T15:28:14+08:00 ] 127.0.0.1 /index.php/Swoole/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018765s ]
+ERR: 无法加载控制器:Index
+
